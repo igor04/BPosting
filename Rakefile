@@ -4,4 +4,4 @@
 
 require File.expand_path('../config/application', __FILE__)
 
-BackbonePosts::Application.load_tasks
+BPosting::Application.load_tasks
